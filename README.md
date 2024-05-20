@@ -4,7 +4,7 @@
 This project is a full-stack email client and server application, designed and developed using cutting-edge web technologies. Inspired by principles from "Modern Full-Stack Development" by Frank Zammetti, this application combines React.js, Typescript, and Express to deliver a robust and user-friendly email solution.
 
 # Key Features
-- Frontend Excellence: Utilizes React.js and Typescript, enhanced with Material UI for a responsive and intuitive user interface. 
+- Frontend Excellence: Utilizes React.js and Typescript, enhanced with Material UI for a responsive user interface. 
 - Efficient communication facilitated through Ajax/Axios.
 - Backend Robustness: Developed with Express and Typescript, handling SMTP and IMAP protocols for comprehensive email operations. 
 - Implements nedb for efficient NoSQL data management.
